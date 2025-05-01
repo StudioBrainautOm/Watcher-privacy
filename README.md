@@ -1,9 +1,9 @@
 # Watcher-privacy
 
-📄 Privacy Policy for Watcher
+Privacy Policy for Watcher
 Effective Date: [2025-05-01]
 Developer: [Minseong Kwon]
-Email: [studibocrop@gmail.com] (← 실제 연락 가능한 이메일로 수정하세요)
+Email: [studibocrop@gmail.com]
 
 Watcher ("we", "our", or "us") respects your privacy. This Privacy Policy describes how we handle your personal information and data in our mobile application, Watcher (the "App").
 
